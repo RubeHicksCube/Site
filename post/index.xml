@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Site For Myself!</title>
+    <link>https://rubehickscube.com/post/</link>
+    <description>Recent content in Posts on A Site For Myself!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jul 2022 11:59:08 -0600</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_Test_Post</title>
+      <link>https://rubehickscube.com/post/first_test_post/</link>
+      <pubDate>Sat, 02 Jul 2022 11:59:08 -0600</pubDate>
+      
+      <guid>https://rubehickscube.com/post/first_test_post/</guid>
+      <description>There does not seem to be anything here&amp;hellip;
+You are in the default file.</description>
+    </item>
+    
+  </channel>
+</rss>
