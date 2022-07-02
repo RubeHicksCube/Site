@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Site For Myself!</title>
+    <link>https://rubehickscube.com/</link>
+    <description>Recent content on A Site For Myself!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rubehickscube.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://rubehickscube.com/about/</link>
+      <pubDate>Sat, 02 Jul 2022 10:46:51 -0600</pubDate>
+      
+      <guid>https://rubehickscube.com/about/</guid>
+      <description>You are on the about page! Test out some functions and see what else shows up!</description>
+    </item>
+    
+  </channel>
+</rss>
