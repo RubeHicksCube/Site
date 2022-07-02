@@ -13,8 +13,11 @@
       <pubDate>Sat, 02 Jul 2022 11:59:08 -0600</pubDate>
       
       <guid>https://rubehickscube.com/post/first_test_post/</guid>
-      <description>There does not seem to be anything here&amp;hellip;
-You are in the default file.</description>
+      <description>CREATE DATABASE wordpress; GRANT ALL ON wordpress.* TO &amp;lsquo;colter&amp;rsquo;@&amp;rsquo;localhost&amp;rsquo; IDENTIFIED BY &amp;lsquo;vi7q5knjynf&amp;rsquo; WITH GRANT OPTION;
+mariadb -u colter -p
+sudo mkdir /var/www/rubehickscube.com sudo chown -R $USER:$USER /var/www/rubehickscube.com sudo nano /etc/nginx/sites-available/rubehickscube.com
+server { listen 80; listen [::]:80; root /var/www/rubehickscube.com; index index.php index.html index.htm; server_name rubehickscube.com; location / { try_files $uri $uri/ =404; } location ~ \.php$ { include snippets/fastcgi-php.conf; fastcgi_pass unix:/var/run/php/php7.3-fpm.sock; } } sudo ln -s /etc/nginx/sites-available/rubehickscube.com /etc/nginx/sites-enabled/
+mariadb -u colter -p</description>
     </item>
     
   </channel>

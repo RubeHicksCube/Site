@@ -493,8 +493,11 @@
 
 
                 <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
-                  There does not seem to be anything here&hellip;
-You are in the default file.
+                  CREATE DATABASE wordpress; GRANT ALL ON wordpress.* TO &lsquo;colter&rsquo;@&rsquo;localhost&rsquo; IDENTIFIED BY &lsquo;vi7q5knjynf&rsquo; WITH GRANT OPTION;
+mariadb -u colter -p
+sudo mkdir /var/www/rubehickscube.com sudo chown -R $USER:$USER /var/www/rubehickscube.com sudo nano /etc/nginx/sites-available/rubehickscube.com
+server { listen 80; listen [::]:80; root /var/www/rubehickscube.com; index index.php index.html index.htm; server_name rubehickscube.com; location / { try_files $uri $uri/ =404; } location ~ \.php$ { include snippets/fastcgi-php.conf; fastcgi_pass unix:/var/run/php/php7.3-fpm.sock; } } sudo ln -s /etc/nginx/sites-available/rubehickscube.com /etc/nginx/sites-enabled/
+mariadb -u colter -p
                 </div>
 
                 <p class="mb-0 f6 text-gray">
