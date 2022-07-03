@@ -1,0 +1,36 @@
+baseURL = 'https://rubehickscube.com/'
+languageCode = 'en-us'
+title = 'A Site For Myself!'
+
+theme = "github-style"
+googleAnalytics = ""
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Colter"
+  description = "This is a test site to see if I want to migrate from WordPress to a Static site."
+  github = "RubeHicksCube"
+  facebook = "RubeHixCube"
+  twitter = "RubeHicksCube"
+  linkedin = "ColterHicks"
+  instagram = "rubehickscube"
+  email = "info@colterhicks.com"
+  url = "https://colterhicks.com"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  favicon = "/images/HyperCubeIcon.png"
+  location = "US"
+  disqusShortname = "rubehickscube"
+
+  [[params.links]]
+    title = "Link"
+    href = "https://colterhicks.com"
+    icon = "/images/HyperCubeIcon.png"
+  [[params.links]]
+    title = "Link2"
+
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
