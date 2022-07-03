@@ -2,6 +2,7 @@
 title: "First Post"
 date: 2022-07-02T18:32:36-06:00
 draft: false
+excerpt: "I just created a new static site!"
 ---
 
 I just created a new static site!
