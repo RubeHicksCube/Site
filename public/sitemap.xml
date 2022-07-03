@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rubehickscube.com/</loc>
-    <lastmod>2022-07-02T21:17:01-06:00</lastmod>
-  </url><url>
     <loc>https://rubehickscube.com/post/first_post/</loc>
     <lastmod>2022-07-02T19:36:22-06:00</lastmod>
   </url><url>
     <loc>https://rubehickscube.com/post/</loc>
+    <lastmod>2022-07-02T21:17:01-06:00</lastmod>
+  </url><url>
+    <loc>https://rubehickscube.com/</loc>
     <lastmod>2022-07-02T21:17:01-06:00</lastmod>
   </url><url>
     <loc>https://rubehickscube.com/about/</loc>

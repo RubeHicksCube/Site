@@ -1,6 +1,6 @@
 baseURL = 'https://rubehickscube.com'
 languageCode = 'en-us'
-title = 'A Site For Myself!'
+title = 'RubeHicksCube'
 
 theme = "github-style"
 googleAnalytics = ""
