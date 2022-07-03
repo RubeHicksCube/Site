@@ -5,6 +5,43 @@
     <link>https://rubehickscube.com/tags/</link>
     <description>Recent content in Tags on A Site For Myself!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rubehickscube.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Oct 2021 14:37:00 -0700</lastBuildDate><atom:link href="https://rubehickscube.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LAMP</title>
+      <link>https://rubehickscube.com/tags/lamp/</link>
+      <pubDate>Sat, 02 Oct 2021 14:37:00 -0700</pubDate>
+      
+      <guid>https://rubehickscube.com/tags/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pi</title>
+      <link>https://rubehickscube.com/tags/pi/</link>
+      <pubDate>Sat, 02 Oct 2021 14:37:00 -0700</pubDate>
+      
+      <guid>https://rubehickscube.com/tags/pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>https://rubehickscube.com/tags/server/</link>
+      <pubDate>Sat, 02 Oct 2021 14:37:00 -0700</pubDate>
+      
+      <guid>https://rubehickscube.com/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://rubehickscube.com/tags/web/</link>
+      <pubDate>Sat, 02 Oct 2021 14:37:00 -0700</pubDate>
+      
+      <guid>https://rubehickscube.com/tags/web/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A Site For Myself!</title>
-    <link>https://rubehickscube.com/post/</link>
-    <description>Recent content in Posts on A Site For Myself!</description>
+    <title>LAMP on A Site For Myself!</title>
+    <link>https://rubehickscube.com/tags/lamp/</link>
+    <description>Recent content in LAMP on A Site For Myself!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 18:32:36 -0600</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://rubehickscube.com/post/first_post/</link>
-      <pubDate>Sat, 02 Jul 2022 18:32:36 -0600</pubDate>
-      
-      <guid>https://rubehickscube.com/post/first_post/</guid>
-      <description>I just created a new static site!</description>
-    </item>
-    
+    <lastBuildDate>Sat, 02 Oct 2021 14:37:00 -0700</lastBuildDate><atom:link href="https://rubehickscube.com/tags/lamp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Raspberry Pi WordPress LAMP server: JUST the commands you need to make it happen</title>
       <link>https://rubehickscube.com/post/raspberry-pi-wordpress-lamp-server-just-the-commands-you-need-to-make-it-happen/</link>

@@ -28,5 +28,14 @@ WordPress would need about 10 different plugins after installation to do what th
 The only complication is getting it installed and actaully using it to write content.</description>
     </item>
     
+    <item>
+      <title>Raspberry Pi WordPress LAMP server: JUST the commands you need to make it happen</title>
+      <link>https://rubehickscube.com/post/raspberry-pi-wordpress-lamp-server-just-the-commands-you-need-to-make-it-happen/</link>
+      <pubDate>Sat, 02 Oct 2021 14:37:00 -0700</pubDate>
+      
+      <guid>https://rubehickscube.com/post/raspberry-pi-wordpress-lamp-server-just-the-commands-you-need-to-make-it-happen/</guid>
+      <description>If you have a Raspberry Pi and would like to turn it into a web server to host your own WordPress website, here are all the commands to make that happen. There is no fluff, just copy the commands one-by-one and you’ll have your site up and running in no time!</description>
+    </item>
+    
   </channel>
 </rss>
