@@ -13,10 +13,7 @@
       <pubDate>Sat, 02 Jul 2022 18:32:36 -0600</pubDate>
       
       <guid>https://rubehickscube.com/post/first_post/</guid>
-      <description>I just created a new static site!
-In hopes of finding the most customizable, cost friendly, and user-friendly method of creating websites, I decided to go static.
-Though it came as a static shock to learn how complicated it is to use a sitebuilder just to be able to use markdown to blog, it eventually worked properly and I think I have my method down.
-This is using GitHub as a host, and I thought it was fun to use a github-based theme to browse the site.</description>
+      <description>I just created a new static site!</description>
     </item>
     
   </channel>
