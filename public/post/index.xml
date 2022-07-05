@@ -6,7 +6,19 @@
     <description>Recent content in Posts on RubeHicksCube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 18:32:36 -0600</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 18:46:39 -0600</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing a New Push</title>
+      <link>https://rubehickscube.com/post/testing-a-new-push/</link>
+      <pubDate>Mon, 04 Jul 2022 18:46:39 -0600</pubDate>
+      
+      <guid>https://rubehickscube.com/post/testing-a-new-push/</guid>
+      <description>Nothing of importance here. This was simply a test.
+Disregard!
+However, if you do find yourself here, This means that this was pushed by Netlify without the use of a second branch. Unlike GitHub Pages.
+A future test will be pushing this from Cloudflare pages.</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>https://rubehickscube.com/post/first_post/</link>
