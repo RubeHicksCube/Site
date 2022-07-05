@@ -6,7 +6,18 @@
     <description>Recent content in Posts on RubeHicksCube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 18:46:39 -0600</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 10:04:29 -0600</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog With Hugo</title>
+      <link>https://rubehickscube.com/post/blog-with-hugo/</link>
+      <pubDate>Tue, 05 Jul 2022 10:04:29 -0600</pubDate>
+      
+      <guid>https://rubehickscube.com/post/blog-with-hugo/</guid>
+      <description>The main issue I have with static site generators is that they need to push their own content using scripts that, for condign newbie, are hard to understand.
+The benefits of WordPress are that you can have the &amp;ldquo;new post&amp;rdquo; page bookmarked and with a single click you can have a new post going.
+With hugo, you have to remember a command, ableit a simple one, to make a new document, and then push it to make an html file.</description>
+    </item>
+    
     <item>
       <title>Testing a New Push</title>
       <link>https://rubehickscube.com/post/testing-a-new-push/</link>
