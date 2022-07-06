@@ -13,9 +13,7 @@
       <pubDate>Tue, 05 Jul 2022 10:04:29 -0600</pubDate>
       
       <guid>https://rubehickscube.com/post/blog-with-hugo/</guid>
-      <description>The main issue I have with static site generators is that they need to push their own content using scripts that, for condign newbie, are hard to understand.
-The benefits of WordPress are that you can have the &amp;ldquo;new post&amp;rdquo; page bookmarked and with a single click you can have a new post going.
-With hugo, you have to remember a command, ableit a simple one, to make a new document, and then push it to make an html file.</description>
+      <description>Hugo is complicated! Here&amp;rsquo;s some tips!</description>
     </item>
     
     <item>
@@ -37,6 +35,15 @@ A future test will be pushing this from Cloudflare pages.</description>
       
       <guid>https://rubehickscube.com/post/first_post/</guid>
       <description>I just created a new static site!</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://rubehickscube.com/post/test-for-blog/</link>
+      <pubDate>Sat, 02 Jul 2022 18:32:36 -0600</pubDate>
+      
+      <guid>https://rubehickscube.com/post/test-for-blog/</guid>
+      <description>From Obsidian</description>
     </item>
     
     <item>

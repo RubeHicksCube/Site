@@ -2,6 +2,7 @@
 title: "Blog With Hugo"
 date: 2022-07-05T10:04:29-06:00
 draft: false
+summary: "Hugo is complicated! Here's some tips!"
 ---
 
 The main issue I have with static site generators is that they need to push their own content using scripts that, for condign newbie, are hard to understand.
