@@ -26,10 +26,15 @@ Then, [On Windows](https://gohugo.io/getting-started/installing/#windows), go to
 And also have the [Package](https://github.com/gohugoio/hugo/releases) downloaded, and extract its contents into the /bin/.
 
 >There's an added step with windows to go into the environment variables to edit those settings.
+
 >Hit the start button, and type in "environment" and hit enter.
+
 >In the "Advanced" tab, hit the "Environemtn Variables" button.
+
 >Select "Path" Variable. Then "Edit" button.
+
 >Select an open bar and click "New", "Browse" and then navigate to the /bin/ folder made before.
+
 >Hit "Ok" as many time to close out the window.
 
 ----
