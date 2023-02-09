@@ -30,6 +30,7 @@ So, below are step by steps to get up and running with Hugo without all the conf
 - Ensure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Installed.
 - Ensure you have [Go](https://go.dev/doc/install) Installed.
 - Ensure you have [Visual Studio Code](https://code.visualstudio.com/Download) Installed.
+- Ensure you have [GitHub Desktop](https://desktop.github.com/) Installed.
 
 >There's an added step with windows that may have to be performed to ensure everything works properly. If your installation automattically does this step, then disregard this step. Go into the environment variables and ensure a path to your installation is mapped:
 
@@ -45,3 +46,10 @@ So, below are step by steps to get up and running with Hugo without all the conf
 
 ----
 
+## How to use Hugo
+
+When you have everything installed, you will write posts for your blog using a .md (markdown) file. You can draft these directly in Visual Studio, or, use a program like Obsidian. Whatever you draft will be dropped in the "post" folder in Hugo.
+
+Make your post, and then in the terminal from Visual Studio you'll type "Hugo" to have it process the file into an HTML file format that is readable by your browser.
+
+That's it! Use GitHub Desktop to push the build to GitHub, and then Netlify or GitHub Pages to share with the world!
