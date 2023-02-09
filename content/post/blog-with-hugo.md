@@ -21,18 +21,23 @@ So, below are step by steps to get up and running with Hugo without all the conf
 
 ----
 
-First is to download [Chocolatey](https://gohugo.io/getting-started/installing/#chocolatey-windows), a package isntaller.
+- First is to download [Chocolatey](https://gohugo.io/getting-started/installing/#chocolatey-windows), a package installer.
 
-Then, [On Windows](https://gohugo.io/getting-started/installing/#windows), go to your Documents folder, make a /Hugo/ folder and inside that make a /bin/ folder.
-And also have the [Package](https://github.com/gohugoio/hugo/releases) downloaded, and extract its contents into the /bin/.
+>Run this command in PowerShell as administrator and it will install.
+>Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
->There's an added step with windows to go into the environment variables to edit those settings.
+- Then, [On Windows](https://gohugo.io/getting-started/installing/#windows), go to your Documents folder, make a /Hugo/ folder and inside that make a /bin/ folder.
+- Ensure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Installed.
+- Ensure you have [Go](https://go.dev/doc/install) Installed.
+- Ensure you have [Visual Studio Code](https://code.visualstudio.com/Download) Installed.
+
+>There's an added step with windows that may have to be performed to ensure everything works properly. If your installation automattically does this step, then disregard this step. Go into the environment variables and ensure a path to your installation is mapped:
 
 >Hit the start button, and type in "environment" and hit enter.
 
->In the "Advanced" tab, hit the "Environemtn Variables" button.
+>In the "Advanced" tab, hit the "Environment Variables" button.
 
->Select "Path" Variable. Then "Edit" button.
+>Select "PATH" Variable. Then "Edit" button.
 
 >Select an open bar and click "New", "Browse" and then navigate to the /bin/ folder made before.
 

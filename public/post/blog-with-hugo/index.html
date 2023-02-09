@@ -150,9 +150,9 @@
 
                   
                   <span class="file-info-divider"></span>
-                  Modified <relative-time datetime="Tue, 05 Jul 2022 22:13:50 -0600"
+                  Modified <relative-time datetime="Thu, 09 Feb 2023 09:38:57 -0700"
                     class="no-wrap">
-                    Tue, 05 Jul 2022 22:13:50 -0600</relative-time>
+                    Thu, 09 Feb 2023 09:38:57 -0700</relative-time>
                   
                 </div>
               </div>
@@ -182,7 +182,7 @@
                         </div>
                       </div>
                     </details-menu>
-                      296 Words
+                      350 Words
                     
 
                   </div>
@@ -202,20 +202,30 @@
 <p>This isn&rsquo;t a huge issue as I can write on any text editor and paste it in later. But, it just takes an extra step.</p>
 <p>So, below are step by steps to get up and running with Hugo without all the confusion that even their official site has.</p>
 <hr>
-<p>First is to download <a href="https://gohugo.io/getting-started/installing/#chocolatey-windows">Chocolatey</a>, a package isntaller.</p>
-<p>Then, <a href="https://gohugo.io/getting-started/installing/#windows">On Windows</a>, go to your Documents folder, make a /Hugo/ folder and inside that make a /bin/ folder.
-And also have the <a href="https://github.com/gohugoio/hugo/releases">Package</a> downloaded, and extract its contents into the /bin/.</p>
+<ul>
+<li>First is to download <a href="https://gohugo.io/getting-started/installing/#chocolatey-windows">Chocolatey</a>, a package installer.</li>
+</ul>
 <blockquote>
-<p>There&rsquo;s an added step with windows to go into the environment variables to edit those settings.</p>
+<p>Run this command in PowerShell as administrator and it will install.
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString(&lsquo;<a href="https://community.chocolatey.org/install.ps1'">https://community.chocolatey.org/install.ps1'</a>))</p>
+</blockquote>
+<ul>
+<li>Then, <a href="https://gohugo.io/getting-started/installing/#windows">On Windows</a>, go to your Documents folder, make a /Hugo/ folder and inside that make a /bin/ folder.</li>
+<li>Ensure you have <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Git</a> Installed.</li>
+<li>Ensure you have <a href="https://go.dev/doc/install">Go</a> Installed.</li>
+<li>Ensure you have <a href="https://code.visualstudio.com/Download">Visual Studio Code</a> Installed.</li>
+</ul>
+<blockquote>
+<p>There&rsquo;s an added step with windows that may have to be performed to ensure everything works properly. If your installation automattically does this step, then disregard this step. Go into the environment variables and ensure a path to your installation is mapped:</p>
 </blockquote>
 <blockquote>
 <p>Hit the start button, and type in &ldquo;environment&rdquo; and hit enter.</p>
 </blockquote>
 <blockquote>
-<p>In the &ldquo;Advanced&rdquo; tab, hit the &ldquo;Environemtn Variables&rdquo; button.</p>
+<p>In the &ldquo;Advanced&rdquo; tab, hit the &ldquo;Environment Variables&rdquo; button.</p>
 </blockquote>
 <blockquote>
-<p>Select &ldquo;Path&rdquo; Variable. Then &ldquo;Edit&rdquo; button.</p>
+<p>Select &ldquo;PATH&rdquo; Variable. Then &ldquo;Edit&rdquo; button.</p>
 </blockquote>
 <blockquote>
 <p>Select an open bar and click &ldquo;New&rdquo;, &ldquo;Browse&rdquo; and then navigate to the /bin/ folder made before.</p>
