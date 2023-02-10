@@ -6,7 +6,16 @@
     <description>Recent content in Posts on RubeHicksCube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jul 2022 10:04:29 -0600</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 07:12:03 -0700</lastBuildDate><atom:link href="https://rubehickscube.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Test</title>
+      <link>https://rubehickscube.com/post/test/</link>
+      <pubDate>Fri, 10 Feb 2023 07:12:03 -0700</pubDate>
+      
+      <guid>https://rubehickscube.com/post/test/</guid>
+      <description>Got back to using Hugo again</description>
+    </item>
+    
     <item>
       <title>Blog With Hugo</title>
       <link>https://rubehickscube.com/post/blog-with-hugo/</link>
@@ -44,15 +53,6 @@ A future test will be pushing this from Cloudflare pages.</description>
       
       <guid>https://rubehickscube.com/post/raspberry-pi-wordpress-lamp-server-just-the-commands-you-need-to-make-it-happen/</guid>
       <description>If you have a Raspberry Pi and would like to turn it into a web server to host your own WordPress website, here are all the commands to make that happen. There is no fluff, just copy the commands one-by-one and you’ll have your site up and running in no time!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://rubehickscube.com/post/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rubehickscube.com/post/test/</guid>
-      <description></description>
     </item>
     
   </channel>
