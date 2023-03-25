@@ -18,6 +18,7 @@ pygmentsUseClasses = true
   instagram = "rubehickscube"
   email = "info@colterhicks.com"
   url = "https://colterhicks.com"
+  resume = "/files/Andrew Hicks Resume Public.pdf"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
