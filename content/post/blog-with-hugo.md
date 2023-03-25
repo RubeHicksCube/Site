@@ -5,7 +5,7 @@ draft: false
 summary: "Hugo is complicated! Here's some tips!"
 ---
 
-The main issue I have with static site generators is that they need to push their own content using scripts that, for condign newbie, are hard to understand.
+The main issue I have with static site generators is that they need to push their own content using scripts that, for a conding newbie, are hard to understand.
 
 The benefits of WordPress are that you can have the "new post" page bookmarked and with a single click you can have a new post going.
 
