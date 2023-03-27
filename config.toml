@@ -3,14 +3,14 @@ languageCode = 'en-us'
 title = 'RubeHicksCube'
 
 theme = "github-style"
-googleAnalytics = ""
+googleAnalytics = "G-YLK8Y70EDK"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 
 [params]
   author = "Colter"
-  description = "This is a test site to see if I want to migrate from WordPress to a Static site."
+  description = "IT Support Technician"
   github = "RubeHicksCube"
   facebook = "RubeHixCube"
   twitter = "RubeHicksCube"
