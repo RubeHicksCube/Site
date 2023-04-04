@@ -30,8 +30,6 @@ pygmentsUseClasses = true
     title = "Link"
     href = "https://colterhicks.com"
     icon = "/images/HyperCubeIcon.png"
-  [[params.links]]
-    title = "Link2"
 
 
 [frontmatter]
